@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d72d0a84-2bbd-4f05-8351-5392d4b96114" name="Changes" comment="" />
+    <list default="true" id="d72d0a84-2bbd-4f05-8351-5392d4b96114" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/assertj-core-3.23.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/assertj-core-3.23.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/byte-buddy-1.12.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/byte-buddy-1.12.10.jar" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +33,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -32,6 +45,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e0cce110-ad35-499e-a09c-027522742d13" />
+        <option name="url" value="git@github.com:j37162001/spring-boot-fullstack.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -100,6 +121,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources/db.migration" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/backend" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/resources/db/migration" />
@@ -233,15 +255,15 @@
       </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="backend: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
-          <option name="sourceFilePath" value="backend/docker-compose.yml" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
         </settings>
       </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="backend.spring-boot-example: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+    <configuration name="docker-compose.yml.spring-boot-example: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
           <option name="services">
@@ -249,7 +271,7 @@
               <option value="spring-boot-example" />
             </list>
           </option>
-          <option name="sourceFilePath" value="backend/docker-compose.yml" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
         </settings>
       </deployment>
       <method v="2" />
@@ -260,8 +282,8 @@
       <item itemvalue="Database Script.V2_Customer_Table.sql" />
       <item itemvalue="Database Script.V2__Customer_Table.sql" />
       <item itemvalue="Database Script.V3__Add_Country_Column_To_Customer_Table.sql" />
-      <item itemvalue="Docker.backend: Compose Deployment" />
-      <item itemvalue="Docker.backend.spring-boot-example: Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml.spring-boot-example: Compose Deployment" />
       <item itemvalue="JUnit.CustomerIntergrationTest" />
       <item itemvalue="JUnit.CustomerIntergrationTest.canRegisterACustomer" />
       <item itemvalue="JUnit.CustomerRawMapperTest" />
@@ -270,8 +292,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Docker.backend: Compose Deployment" />
-        <item itemvalue="Docker.backend.spring-boot-example: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.spring-boot-example: Compose Deployment" />
         <item itemvalue="JUnit.CustomerIntergrationTest" />
         <item itemvalue="JUnit.CustomerIntergrationTest.canRegisterACustomer" />
         <item itemvalue="JUnit.CustomerRawMapperTest" />
@@ -327,7 +349,9 @@
       <workItem from="1699737007404" duration="198000" />
       <workItem from="1699737413710" duration="44000" />
       <workItem from="1699737461577" duration="55000" />
-      <workItem from="1699737584829" duration="1156000" />
+      <workItem from="1699737584829" duration="1680000" />
+      <workItem from="1699740320058" duration="265000" />
+      <workItem from="1699740590599" duration="498000" />
     </task>
     <servers />
   </component>

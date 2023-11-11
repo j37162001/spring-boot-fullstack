@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d72d0a84-2bbd-4f05-8351-5392d4b96114" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/assertj-core-3.23.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/assertj-core-3.23.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.12.10-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.12.10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/amigoscode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/amigoscode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/amigoscode/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/amigoscode/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/TestcontainersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/TestcontainersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/customer/CustomerJDBCDataAccessServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/customer/CustomerJDBCDataAccessServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/customer/CustomerRawMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/customer/CustomerRawMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/customer/CustomerRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/customer/CustomerRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/customer/CustomerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/customer/CustomerServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/journey/CustomerIntergrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/amigoscode/journey/CustomerIntergrationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EndpointsView">
+    <option name="showSidePanel" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2TKUUHgcoglr3TuIlKz9G8W4k64" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/JerryYaw/Documents/API_practice/spring-boot-example&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3ad51d13cc430751bef82c6d0811e314&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;be9e73fd-2743-409c-89fe-68b7bfaa0e2f/database/\&quot;customer\&quot;&quot;,
+      &quot;be9e73fd-2743-409c-89fe-68b7bfaa0e2f&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/db.migration" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/db/migration" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.amigoscode.customer" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile jib:build -X" />
+      <command value="mvn clean package" />
+      <command value="mvn compile jib:build" />
+      <command value="mvn compile jib:build -Djib.to.auth.username=j37162001 -Djib.to.auth.password=1qaz@WSX123456" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amigoscode.Main" />
+      <module name="spring-boot-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amigoscode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V1__Initial_Setup.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db.migration/V1__Initial_Setup.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="be9e73fd-2743-409c-89fe-68b7bfaa0e2f" />
+      <method v="2" />
+    </configuration>
+    <configuration name="V1__Initial_Setup.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/target/classes/db.migration/V1__Initial_Setup.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="V2_Customer_Table.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db.migration/V2_Customer_Table.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="be9e73fd-2743-409c-89fe-68b7bfaa0e2f" />
+      <method v="2" />
+    </configuration>
+    <configuration name="V2__Customer_Table.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db.migration/V2__Customer_Table.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="be9e73fd-2743-409c-89fe-68b7bfaa0e2f" namespace="database/&quot;customer&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="V3__Add_Country_Column_To_Customer_Table.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db/migration/V3__Add_Country_Column_To_Customer_Table.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="be9e73fd-2743-409c-89fe-68b7bfaa0e2f" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="DatabaseScript">
+      <script-mode>FILE</script-mode>
+      <data-source id="be9e73fd-2743-409c-89fe-68b7bfaa0e2f" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomerIntergrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amigoscode.journey.CustomerIntergrationTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amigoscode.journey" />
+      <option name="MAIN_CLASS_NAME" value="com.amigoscode.journey.CustomerIntergrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerIntergrationTest.canRegisterACustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amigoscode.journey.CustomerIntergrationTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amigoscode.journey" />
+      <option name="MAIN_CLASS_NAME" value="com.amigoscode.journey.CustomerIntergrationTest" />
+      <option name="METHOD_NAME" value="canRegisterACustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerRawMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amigoscode.customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amigoscode.customer" />
+      <option name="MAIN_CLASS_NAME" value="com.amigoscode.customer.CustomerRawMapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="amigoscode-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.amigoscode.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-boot-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.amigoscode.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="backend: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="backend/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="backend.spring-boot-example: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="spring-boot-example" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="backend/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Database Script.V1__Initial_Setup.sql" />
+      <item itemvalue="Database Script.V2_Customer_Table.sql" />
+      <item itemvalue="Database Script.V2__Customer_Table.sql" />
+      <item itemvalue="Database Script.V3__Add_Country_Column_To_Customer_Table.sql" />
+      <item itemvalue="Docker.backend: Compose Deployment" />
+      <item itemvalue="Docker.backend.spring-boot-example: Compose Deployment" />
+      <item itemvalue="JUnit.CustomerIntergrationTest" />
+      <item itemvalue="JUnit.CustomerIntergrationTest.canRegisterACustomer" />
+      <item itemvalue="JUnit.CustomerRawMapperTest" />
+      <item itemvalue="Spring Boot.Main (1)" />
+      <item itemvalue="Spring Boot.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.backend: Compose Deployment" />
+        <item itemvalue="Docker.backend.spring-boot-example: Compose Deployment" />
+        <item itemvalue="JUnit.CustomerIntergrationTest" />
+        <item itemvalue="JUnit.CustomerIntergrationTest.canRegisterACustomer" />
+        <item itemvalue="JUnit.CustomerRawMapperTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d72d0a84-2bbd-4f05-8351-5392d4b96114" name="Changes" comment="" />
+      <created>1690791282682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690791282682</updated>
+      <workItem from="1691544431199" duration="13038000" />
+      <workItem from="1691669922884" duration="1543000" />
+      <workItem from="1691716789951" duration="17669000" />
+      <workItem from="1691829921071" duration="633000" />
+      <workItem from="1691831460371" duration="1116000" />
+      <workItem from="1691832608106" duration="2462000" />
+      <workItem from="1691889053248" duration="1960000" />
+      <workItem from="1691993817364" duration="18894000" />
+      <workItem from="1692166766818" duration="2125000" />
+      <workItem from="1692170203892" duration="12476000" />
+      <workItem from="1692418811639" duration="6354000" />
+      <workItem from="1692579316297" duration="2330000" />
+      <workItem from="1692597938092" duration="4795000" />
+      <workItem from="1692662249759" duration="15684000" />
+      <workItem from="1692748703087" duration="10062000" />
+      <workItem from="1693181778810" duration="255000" />
+      <workItem from="1698413833485" duration="617000" />
+      <workItem from="1698453799313" duration="2450000" />
+      <workItem from="1698501386606" duration="2950000" />
+      <workItem from="1698508816752" duration="12777000" />
+      <workItem from="1698591606530" duration="3698000" />
+      <workItem from="1698598942829" duration="168000" />
+      <workItem from="1698599171847" duration="1337000" />
+      <workItem from="1699479001325" duration="6352000" />
+      <workItem from="1699540402341" duration="2999000" />
+      <workItem from="1699578080229" duration="669000" />
+      <workItem from="1699584639485" duration="1259000" />
+      <workItem from="1699625093367" duration="192000" />
+      <workItem from="1699668614188" duration="203000" />
+      <workItem from="1699715586362" duration="173000" />
+      <workItem from="1699725036153" duration="6000" />
+      <workItem from="1699726555002" duration="262000" />
+      <workItem from="1699726838124" duration="333000" />
+      <workItem from="1699729613992" duration="611000" />
+      <workItem from="1699730287455" duration="1611000" />
+      <workItem from="1699732441189" duration="61000" />
+      <workItem from="1699732611745" duration="968000" />
+      <workItem from="1699736645527" duration="113000" />
+      <workItem from="1699737007404" duration="198000" />
+      <workItem from="1699737413710" duration="44000" />
+      <workItem from="1699737461577" duration="55000" />
+      <workItem from="1699737584829" duration="581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_example$CustomerJPADataAccessServiceTest.ic" NAME="CustomerJPADataAccessServiceTest Coverage Results" MODIFIED="1692665863162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.amigoscode.customer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/spring_boot_example$CustomerRawMapperTest.ic" NAME="CustomerRawMapperTest Coverage Results" MODIFIED="1692763223184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.amigoscode.customer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/spring_boot_example$CustomerServiceTest.ic" NAME="CustomerServiceTest Coverage Results" MODIFIED="1692753323725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.amigoscode.customer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/spring_boot_example$CustomerJDBCDataAccessServiceTest.ic" NAME="CustomerJDBCDataAccessServiceTest Coverage Results" MODIFIED="1692432522219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.amigoscode.customer.*</FILTER>
+    </SUITE>
+  </component>
+</project>

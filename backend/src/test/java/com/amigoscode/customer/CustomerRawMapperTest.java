@@ -2,7 +2,6 @@ package com.amigoscode.customer;
 
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
-import org.mockito.stubbing.OngoingStubbing;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

@@ -29,8 +29,8 @@ public class Main {
  */
 //        ConfigurableApplicationContext applicationContext =
         SpringApplication.run(Main.class, args);
+
     }
-//        printBeans(applicationContext);
 
         @Bean
         CommandLineRunner runner(CustomerRepository customerRepository){

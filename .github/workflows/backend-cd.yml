@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - backend/**
-job:
+jobs:
   deploy:
     runs-on: ubuntu-latest
     services:

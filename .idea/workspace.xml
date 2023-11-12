@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d72d0a84-2bbd-4f05-8351-5392d4b96114" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflow/backend-ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -347,7 +347,8 @@
       <workItem from="1699737584829" duration="1680000" />
       <workItem from="1699740320058" duration="265000" />
       <workItem from="1699740590599" duration="498000" />
-      <workItem from="1699741093022" duration="203000" />
+      <workItem from="1699741093022" duration="1020000" />
+      <workItem from="1699753775620" duration="1045000" />
     </task>
     <task id="LOCAL-00001" summary="move docker compose and pin postgres to tag 15.3">
       <created>1699741219282</created>
@@ -356,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699741219282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update gitignore">
+      <created>1699741324007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699741324007</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +373,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="move docker compose and pin postgres to tag 15.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="move docker compose and pin postgres to tag 15.3" />
+    <MESSAGE value="update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="update gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/spring_boot_example$CustomerJPADataAccessServiceTest.ic" NAME="CustomerJPADataAccessServiceTest Coverage Results" MODIFIED="1692665863162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

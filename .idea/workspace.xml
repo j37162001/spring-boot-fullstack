@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d72d0a84-2bbd-4f05-8351-5392d4b96114" name="Changes" comment="change workflow to workflows">
+    <list default="true" id="d72d0a84-2bbd-4f05-8351-5392d4b96114" name="Changes" comment="change CD workflow">
       <change beforePath="$PROJECT_DIR$/.github/workflows/backend-cd.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/backend-cd.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -351,7 +351,7 @@
       <workItem from="1699741093022" duration="1020000" />
       <workItem from="1699753775620" duration="2831000" />
       <workItem from="1699802791830" duration="195000" />
-      <workItem from="1699803469930" duration="5989000" />
+      <workItem from="1699803469930" duration="7000000" />
     </task>
     <task id="LOCAL-00001" summary="move docker compose and pin postgres to tag 15.3">
       <created>1699741219282</created>

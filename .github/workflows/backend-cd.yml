@@ -7,13 +7,13 @@ on:
       - main
     paths:
       - backend/**
-      -
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     services:
       postgres:
-        image: postgres:14.1
+        image: postgres:14.5
         env:
           POSTGRES_USER: amigoscode
           POSTGRES_PASSWORD: password
@@ -71,4 +71,3 @@ jobs:
           git add .
           git commit -m "Update Dockerrun.aws.json docker image with new tag ${{ steps.build-number.outputs.BUILD_NUMBER }}"
           git push
-

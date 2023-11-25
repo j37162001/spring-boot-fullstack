@@ -87,7 +87,10 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Update Dockerrun.aws.json docker image with new tag ${{ steps.build-number.outputs.BUILD_NUMBER }}" || echo "No changes to commit"
+          git commit -m "Update Dockerrun.aws.json docker image with new tag ${{ steps.build-number.outputs.BUILD_NUMBER }}" || {
+            echo "No changes to commit"
+            exit 0
+          }
           git push
       - name: Send Slack Message
         run: >

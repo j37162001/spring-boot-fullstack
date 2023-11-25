@@ -30,10 +30,13 @@ jobs:
         working-directory: ./backend
 
     steps:
+      - uses: actions/checkout@v3
+      - name: Send commit message and sha
+        run: >
+          curl -X POST -H 'Content-type: application/json' --data '{"text":":github: https://github.com/j37162001/spring-boot-fullstack/commit/${{ github.sha }} - ${{ github.event.head_commit.message }}"}' ${{ secrets.SLACK_WEBHOOK_URL }}
       - name: Send Slack Message
         run: >
-          curl -X POST -H 'Content-type: application/json' --data '{"text":"Deployment started”}' ${{ secrets.SLACK_WEBHOOK_URL }}
-      - uses: actions/checkout@v3
+          curl -X POST -H 'Content-type: application/json' --data '{"text":"Deployment started"}' ${{ secrets.SLACK_WEBHOOK_URL }}
       - uses: actions/setup-java@v3
         with:
           distribution: 'temurin'
@@ -49,7 +52,7 @@ jobs:
         run: echo "BUILD_NUMBER=$(date '+%d.%m.%Y.%H.%M.%S')" >> $GITHUB_OUTPUT
       - name: Send Slack Message
         run: >
-          curl -X POST -H 'Content-type: application/json' --data '{"text":"Building with maven”}' ${{ secrets.SLACK_WEBHOOK_URL }}
+          curl -X POST -H 'Content-type: application/json' --data '{"text":"Building with maven"}' ${{ secrets.SLACK_WEBHOOK_URL }}
       - name: Build Package Push with Maven
         run: mvn -ntp -B verify -Ddocker.image.tag=${{steps.build-number.outputs.BUILD_NUMBER}} jib:build
       - name: Send Slack Message
